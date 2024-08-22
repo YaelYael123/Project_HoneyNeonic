@@ -1,1 +1,5 @@
+<div align=justify> This project is a part of an introductory data analysis course in the first year of industrial engineering faculty. The basic principles that make up the field of data science were reviewed. The project was to find business data and perform various analyses, in order to derive appropriate insights to generate leverage for improving business performance. We had to ask the right questions, obtain the most appropriate data, analyze it, model it and reach insights that help their business development, in order to derive business benefits. <div/>
+<br>
+<div align=justify> The project examined the bee honey data (the number of colonies that produce honey and the amount taken from them, the yield of honey per colony, price per kg of honey, stocks, and fluorescent pesticides (which harm bees)) in the USA, and the effect of pesticides on stocks, the amount of colonies, The yield of honey, and the price of honey. <div/>
+<br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YaelYael123/Project_HoneyNeonic/HEAD)
